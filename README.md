@@ -1,6 +1,7 @@
 # JEE-TOPIC-CLASSIFIER-WITH-AIML
 A Python-based desktop application designed for JEE Main aspirants to generate structured 75-question mock exam blueprints. 
 # JEE Assistant Pro - Mock Paper Architect
+# Topic:- Education
 
 ## 📌 Project Overview
 **JEE Assistant Pro** is a professional-grade Python desktop application designed to assist JEE Main aspirants. The tool generates structured 75-question mock exam blueprints (25 Physics, 25 Chemistry, and 25 Mathematics) based on the official syllabus.
@@ -51,4 +52,10 @@ The Mock Paper Generator utilizes stochastic (randomized) processes to simulate 
 ~ Concept: In Machine Learning, raw data must be structured into features that a machine can process.
 ~ Implementation: The project structures the vast JEE syllabus into a Mapped Data Structure (Dictionaries/DataFrames). By organizing data into Subject -> Topic ->  ~ Complexity, the system treats these as categorical features for both the generator and the reporter.
 ~ Significance: This structured representation is the prerequisite for any future upgrade to supervised learning models (like Random Forests or Neural Networks).
+
+Project Title: JEE Assistant Pro - Mock Paper Architect
+
+## Author: [Abhinav Patil]
+
+## Branch: CSE with AIML
 
